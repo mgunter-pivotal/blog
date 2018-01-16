@@ -32,7 +32,7 @@ What are the options that come to mind when a service is performing poorly and n
 
 5. Finally through the process of elimination we landed on [VisualVM](https://visualvm.github.io/index.html) for profiling our app. VisualVM on your laptop can connect remotely to the app running in PCF. See this excellent KnowledgeBase [article](https://discuss.pivotal.io/hc/en-us/articles/221330108-How-to-remotely-monitor-Java-applications-deployed-on-PCF-via-JMX) on _How to remotely monitor Java applications deployed on PCF® via JMX_. Please note that *The instructions are only useful in Diego-based containers with SSH access enabled.*
 
-# Where the Bodies Lie ... Evidence
+# Where the Bodies Lie ... Evidence (todo)
 
 {{< responsive-figure src="/images/profiling/cloud-profile.png" caption="Cloud profile showing slowdown" class="center" >}}
 
